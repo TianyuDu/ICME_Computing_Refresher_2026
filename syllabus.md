@@ -2,7 +2,7 @@
 
 Information of ICME Refresher 2026 is available at: [ICME Refresher Course](https://icmerefreshercourse.stanford.edu/icme-refresher-course-schedule)
 
-* Location: TBD
+* Location: Y2E2 111 ([Google Map](https://www.google.com/maps/search/?api=1&query=Y2E2+Building%2C+Stanford+University))
 * Time:
   * 1:30 PM - 2:40 PM, Wednesday, 09/16
   * 2:50 PM - 4:00 PM, Wednesday, 09/16
