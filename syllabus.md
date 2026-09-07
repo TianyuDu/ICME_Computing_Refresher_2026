@@ -3,9 +3,9 @@
 Information of ICME Refresher 2026 is available at: [ICME Refresher Course](https://icmerefreshercourse.stanford.edu/icme-refresher-course-schedule)
 
 * Location: TBD
-* Time: TBD
-  * Session 1: TBD
-  * Session 2: TBD
+* Time:
+  * 1:30 PM - 2:40 PM, Wednesday, 09/16
+  * 2:50 PM - 4:00 PM, Wednesday, 09/16
 
 ----
 
