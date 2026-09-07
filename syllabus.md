@@ -1,16 +1,16 @@
-# ICME Computing Refresher 2025
+# ICME Computing Refresher 2026
 
-Information of ICME Refresher 2025 is available at: [ICME Refresher Course (Sept 16-18 2025)](https://icmerefreshercourse.stanford.edu/icme-refresher-course-schedule)
+Information of ICME Refresher 2026 is available at: [ICME Refresher Course](https://icmerefreshercourse.stanford.edu/icme-refresher-course-schedule)
 
-* Location: Hewlett 102.([Google Map]([https://goo.gl/maps/jwVhSocU3VnhHmyb6](https://www.google.com/maps/place/William+R.+Hewlett+Teaching+Center,+370+Serra+Mall,+Stanford,+CA+94305/data=!4m2!3m1!1s0x808fbb2ae177cc91:0x5351ffed56456da8?sa=X&ved=2ahUKEwiRqKza-raBAxX5I0QIHc6-DjYQ8gF6BAg4EAA&ved=2ahUKEwiRqKza-raBAxX5I0QIHc6-DjYQ8gF6BAg_EAE)))
-* Time: 
-  * 2:10 PM - 3:20 PM, Monday, 09/15
-  * 3:30 PM – 4:30 PM, Monday, 09/15
+* Location: TBD
+* Time: TBD
+  * Session 1: TBD
+  * Session 2: TBD
 
 ----
 
-* Instructor: Catherine Chen
-* Email: [cyc2152@stanford.edu](mailto:cyc2152@stanford.edu)
+* Instructor: Tianyu Du
+* Email: `<SUNetID>@stanford.edu` (TBD)
 
 ---
 
